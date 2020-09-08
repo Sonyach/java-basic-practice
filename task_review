@@ -1,0 +1,12 @@
+
+rules for evaluating tasks
+Each corectly implemented task - 25 points
+Total points - 100 
+
+
+Dubster - 24 (implemented corectly, small remarks: 1) line 31 - not nessesary var "s"; 2) not nessesary part .replaceAll(" +", " "), 
+according to task defenition input contains only English letters in upper case)
+JadenCase - 25 (implemented corectly)
+NumberRotator - 0 (not implemented) 
+SequenceSum - 25 (implemented corectly)
+Total points - 74
