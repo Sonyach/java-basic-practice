@@ -1,0 +1,11 @@
+
+rules for evaluating tasks
+Each corectly implemented task - 25 points
+Total points - 100 
+
+
+Dubster - 12 (implemented partly, 1)unused variable 2)replace method invoked on wrond arg https://ibb.co/pvJCzst)
+JadenCase - 2 implemented not correctly, "MOST TREES ARE BLUE" != "Most Trees Are Blue"
+NumberRotator - 2 (implemented not correctly)
+SequenceSum - 15 (partially implemented, summation logic is correct, omitted logic that created string representation of summed digit, unused variable) https://ibb.co/2vrndkw
+Total points - 31
